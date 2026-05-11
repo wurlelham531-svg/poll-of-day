@@ -1,0 +1,9 @@
+{
+  "contractId": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C.poll-of-day",
+  "deployer": "SP16F6839630K5XX06KE7KVNSNMYBK89912NH6N4C",
+  "txid": "fe78d70c99d6dbcb516f084c0e1d6df7f79c095ca5c05b5896559955da5180a1",
+  "submittedAt": "2026-05-11T12:46:54.823Z",
+  "fee": "5000",
+  "clarityVersion": 4,
+  "explorer": "https://explorer.hiro.so/txid/fe78d70c99d6dbcb516f084c0e1d6df7f79c095ca5c05b5896559955da5180a1?chain=mainnet"
+}
