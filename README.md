@@ -22,3 +22,7 @@ Static HTML in `frontend/`. Connect a Stacks wallet, pick a day and an option, v
 ## License
 
 MIT
+
+---
+
+_Last updated: 2026-05-12_
