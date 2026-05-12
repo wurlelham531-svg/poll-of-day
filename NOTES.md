@@ -8,3 +8,4 @@ Dev journal — informal.
 - 2026-05-12: thought: maybe a small "how it works" section
 - 2026-05-12: todo: review error messages for clarity
 - 2026-05-12: reminder: keep docs in sync with on-chain calls
+- 2026-05-12: considering a small tweak to UX copy
