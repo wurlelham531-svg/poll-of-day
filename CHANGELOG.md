@@ -12,3 +12,4 @@
 - 2026-05-13 — routine maintenance (3f1w)
 - 2026-05-13 — small doc improvements (ff2j)
 - 2026-05-13 — small refinements (ypoz)
+- 2026-05-13 — tighten docs (w7ba)
