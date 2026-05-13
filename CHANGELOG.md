@@ -14,3 +14,4 @@
 - 2026-05-13 — small refinements (ypoz)
 - 2026-05-13 — tighten docs (w7ba)
 - 2026-05-13 — misc tweaks (0l9v)
+- 2026-05-13 — refresh build metadata (dabh)
