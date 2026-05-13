@@ -19,3 +19,4 @@
 - 2026-05-13 — tighten docs (rds5)
 - 2026-05-13 — misc tweaks (dwus)
 - 2026-05-13 — misc tweaks (lmet)
+- 2026-05-13 — housekeeping pass (ionu)
