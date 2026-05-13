@@ -21,3 +21,4 @@
 - 2026-05-13 — misc tweaks (lmet)
 - 2026-05-13 — housekeeping pass (ionu)
 - 2026-05-13 — tidy up notes (2rxm)
+- 2026-05-13 — small doc improvements (24hz)
