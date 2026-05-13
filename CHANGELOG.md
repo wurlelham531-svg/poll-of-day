@@ -7,3 +7,5 @@
 - 2026-05-12 — small wording fixes (qal3)
 - 2026-05-13 — tighten docs (nx1t)
 - 2026-05-13 — small wording fixes (2jzr)
+- 2026-05-13 — minor cleanup and polish (maaw)
+- 2026-05-13 — tighten docs (zukb)
