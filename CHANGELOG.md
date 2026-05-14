@@ -28,3 +28,4 @@
 - 2026-05-14 — small doc improvements (q4x4)
 - 2026-05-14 — small wording fixes (lhra)
 - 2026-05-14 — minor cleanup and polish (i7v9)
+- 2026-05-14 — tighten docs (8t49)
