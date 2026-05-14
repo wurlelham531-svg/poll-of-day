@@ -25,3 +25,4 @@ Dev journal — informal.
 - 2026-05-13: todo: better empty-state copy
 - 2026-05-13: considering a small tweak to UX copy
 - 2026-05-13: idea: tiny visual polish on the home page
+- 2026-05-14: idea: tiny visual polish on the home page
