@@ -25,3 +25,4 @@
 - 2026-05-14 — small refinements (m1hu)
 - 2026-05-14 — minor cleanup and polish (kfy4)
 - 2026-05-14 — tighten docs (o22c)
+- 2026-05-14 — small doc improvements (q4x4)
