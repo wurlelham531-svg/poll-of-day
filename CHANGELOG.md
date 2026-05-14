@@ -24,3 +24,4 @@
 - 2026-05-13 — small doc improvements (24hz)
 - 2026-05-14 — small refinements (m1hu)
 - 2026-05-14 — minor cleanup and polish (kfy4)
+- 2026-05-14 — tighten docs (o22c)
