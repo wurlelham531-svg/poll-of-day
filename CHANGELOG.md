@@ -42,3 +42,4 @@
 - 2026-05-15 — tighten docs (edzc)
 - 2026-05-15 — small wording fixes (96el)
 - 2026-05-15 — small refinements (fmx3)
+- 2026-05-15 — small doc improvements (mc7z)
