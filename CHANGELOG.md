@@ -32,3 +32,5 @@
 - 2026-05-15 — routine maintenance (2l2y)
 - 2026-05-15 — tidy up notes (cxpr)
 - 2026-05-15 — small refinements (ailm)
+- 2026-05-15 — small refinements (knpf)
+- 2026-05-15 — housekeeping pass (li3c)
