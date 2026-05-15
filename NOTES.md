@@ -38,3 +38,4 @@ Dev journal — informal.
 - 2026-05-15: thought: maybe a small "how it works" section
 - 2026-05-15: idea: tiny visual polish on the home page
 - 2026-05-15: micro-task: align dates in changelog format
+- 2026-05-15: idea: tiny visual polish on the home page
