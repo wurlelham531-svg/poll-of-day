@@ -36,3 +36,4 @@
 - 2026-05-15 — housekeeping pass (li3c)
 - 2026-05-15 — small doc improvements (a9en)
 - 2026-05-15 — minor cleanup and polish (wtgu)
+- 2026-05-15 — minor cleanup and polish (t3eh)
