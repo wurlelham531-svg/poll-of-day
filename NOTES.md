@@ -42,3 +42,4 @@ Dev journal — informal.
 - 2026-05-15: thinking about cleanup of contract entry point
 - 2026-05-15: thinking about cleanup of contract entry point
 - 2026-05-15: todo: better empty-state copy
+- 2026-05-15: considering a small tweak to UX copy
