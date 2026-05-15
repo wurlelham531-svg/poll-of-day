@@ -37,3 +37,4 @@
 - 2026-05-15 — small doc improvements (a9en)
 - 2026-05-15 — minor cleanup and polish (wtgu)
 - 2026-05-15 — minor cleanup and polish (t3eh)
+- 2026-05-15 — small refinements (ftgk)
