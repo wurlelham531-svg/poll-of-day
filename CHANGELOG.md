@@ -38,3 +38,4 @@
 - 2026-05-15 — minor cleanup and polish (wtgu)
 - 2026-05-15 — minor cleanup and polish (t3eh)
 - 2026-05-15 — small refinements (ftgk)
+- 2026-05-15 — refresh build metadata (36ao)
