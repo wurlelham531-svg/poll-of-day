@@ -30,3 +30,4 @@
 - 2026-05-14 — minor cleanup and polish (i7v9)
 - 2026-05-14 — tighten docs (8t49)
 - 2026-05-15 — routine maintenance (2l2y)
+- 2026-05-15 — tidy up notes (cxpr)
