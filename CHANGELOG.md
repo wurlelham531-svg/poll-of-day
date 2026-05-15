@@ -40,3 +40,4 @@
 - 2026-05-15 — small refinements (ftgk)
 - 2026-05-15 — refresh build metadata (36ao)
 - 2026-05-15 — tighten docs (edzc)
+- 2026-05-15 — small wording fixes (96el)
