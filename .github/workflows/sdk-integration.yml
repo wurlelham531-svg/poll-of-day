@@ -28,21 +28,21 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Install civita-sdk from npm registry
-        run: npm install civita-sdk
+      - name: Install poll-of-day-sdk from npm registry
+        run: npm install poll-of-day-sdk
 
       - name: Verify SDK installation
         continue-on-error: true
         run: |
           node -e "
-            const sdk = require('civita-sdk');
-            console.log('civita-sdk installed successfully');
+            const sdk = require('poll-of-day-sdk');
+            console.log('poll-of-day-sdk installed successfully');
             console.log('Exports:', Object.keys(sdk).join(', '));
           "
 
       - name: Check SDK version
         continue-on-error: true
-        run: npm list civita-sdk
+        run: npm list poll-of-day-sdk
 
   sdk-cross-platform:
     name: Cross-platform SDK Test
@@ -63,12 +63,12 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Install civita-sdk
-        run: npm install civita-sdk
+      - name: Install poll-of-day-sdk
+        run: npm install poll-of-day-sdk
 
       - name: Verify SDK on ${{ matrix.os }}
         continue-on-error: true
-        run: node -e "const sdk = require('civita-sdk'); console.log('SDK works on ${{ matrix.os }}');"
+        run: node -e "const sdk = require('poll-of-day-sdk'); console.log('SDK works on ${{ matrix.os }}');"
 
   sdk-stress-test:
     name: SDK Stress Test (Installation ${{ matrix.installation }})
@@ -88,14 +88,14 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Install civita-sdk (Run #${{ matrix.installation }})
-        run: npm install civita-sdk
+      - name: Install poll-of-day-sdk (Run #${{ matrix.installation }})
+        run: npm install poll-of-day-sdk
 
       - name: Verify SDK installation
         continue-on-error: true
         run: |
           node -e "
-            const sdk = require('civita-sdk');
+            const sdk = require('poll-of-day-sdk');
             console.log('Installation #${{ matrix.installation }} successful');
             console.log('Exports:', Object.keys(sdk).join(', '));
           "
