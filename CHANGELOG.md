@@ -45,3 +45,5 @@
 - 2026-05-15 — small doc improvements (mc7z)
 - 2026-05-15 — tighten docs (4hvt)
 - 2026-05-15 — tighten docs (wa4k)
+- 2026-05-16 — tidy up notes (m9zw)
+- 2026-05-16 — small wording fixes (z8vw)
