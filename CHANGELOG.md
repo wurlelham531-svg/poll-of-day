@@ -56,3 +56,4 @@
 - 2026-05-16 — tighten docs (a0pu)
 - 2026-05-16 — housekeeping pass (jsd7)
 - 2026-05-16 — small wording fixes (auim)
+- 2026-05-17 — minor cleanup and polish (afo9)
