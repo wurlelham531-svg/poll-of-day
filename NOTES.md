@@ -59,3 +59,4 @@ Dev journal — informal.
 - 2026-05-17: tbd: feedback widget on landing
 - 2026-05-17: todo: better empty-state copy
 - 2026-05-17: thought: maybe a small "how it works" section
+- 2026-05-17: micro-task: align dates in changelog format
