@@ -64,3 +64,4 @@
 - 2026-05-17 — small wording fixes (6ga3)
 - 2026-05-17 — small wording fixes (dnz0)
 - 2026-05-17 — small refinements (9jpp)
+- 2026-05-17 — minor cleanup and polish (dogm)
