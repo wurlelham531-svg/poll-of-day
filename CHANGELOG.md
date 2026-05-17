@@ -60,3 +60,4 @@
 - 2026-05-17 — small wording fixes (3o0s)
 - 2026-05-17 — small doc improvements (ztuy)
 - 2026-05-17 — minor cleanup and polish (kdjr)
+- 2026-05-17 — misc tweaks (bot6)
