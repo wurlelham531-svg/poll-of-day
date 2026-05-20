@@ -74,3 +74,4 @@
 - 2026-05-18 — housekeeping pass (m68q)
 - 2026-05-18 — tighten docs (uutn)
 - 2026-05-18 — small wording fixes (yeg4)
+- 2026-05-20 — small refinements (cf5e)
