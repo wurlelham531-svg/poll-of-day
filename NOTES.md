@@ -66,3 +66,4 @@ Dev journal — informal.
 - 2026-05-18: thought: maybe a small "how it works" section
 - 2026-05-18: micro-task: align dates in changelog format
 - 2026-05-20: todo: review error messages for clarity
+- 2026-05-20: thinking about cleanup of contract entry point
