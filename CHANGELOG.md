@@ -76,3 +76,4 @@
 - 2026-05-18 — small wording fixes (yeg4)
 - 2026-05-20 — small refinements (cf5e)
 - 2026-05-20 — refresh build metadata (s415)
+- 2026-05-20 — tighten docs (8xn9)
